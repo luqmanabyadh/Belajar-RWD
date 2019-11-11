@@ -1,6 +1,9 @@
 * {
-    box-sizing:border-box;
+    box-sizing: border-box;
 }
+
+/* @media itu adalah selector, yang mana akan melakukan perintah dari class
+jika syarat yang ditulis terpenuhi */
 
 /* UNTUK HAPE: */
 @media only screen and (max-width: 600px) {
